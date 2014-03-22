@@ -1,0 +1,26 @@
+{
+  "name": "Facemash",
+  "version": "0.0.1",
+  "description": "It is an node.js app to demonstrate voting system",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harishekhar/facemash.git"
+  },
+  "keywords": [
+    "game",
+    "picture",
+    "voting"
+  ],
+  "author": "Hari Shekhar",
+  "license": "GPL v3",
+  "bugs": {
+    "url": "https://github.com/harishekhar/facemash/issues"
+  },
+  "homepage": "https://github.com/harishekhar/facemash"
+}
