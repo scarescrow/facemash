@@ -39,14 +39,14 @@ section, footer, header, aside{
 
 
 header{
-	padding:20px;
+	padding:5px;
 	text-align: center;
 }
 
 header h1{
-	padding-top:50px;
-	font-size:52px;
-	line-height:80px;
+	padding-top:10px;
+	font-size:42px;
+	line-height:1.2em;
 	color:#45bad3;
 }
 
@@ -107,7 +107,7 @@ nav a.active{
 
 body > img{
 	display:block;
-	margin:60px auto;
+	margin:20px auto;
 	border-radius: 3px;
 }
 
@@ -163,7 +163,7 @@ body > img{
 
 ul{
 	width: 210px;
-	margin:60px auto;
+	margin:20px auto;
 	counter-reset:ranks;
 }
 
