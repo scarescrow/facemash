@@ -1,10 +1,12 @@
 {
   "name": "Facemash",
   "version": "0.0.1",
-  "description": "It is an node.js app to demonstrate voting system",
+  "description": "It is a node.js voting application",
   "main": "index.js",
   "dependencies": {
-    "express": "^3.5.0"
+    "express": "^3.5.0",
+    "nedb": "^0.10.4",
+    "express3-handlebars": "^0.5.0"
   },
   "devDependencies": {},
   "scripts": {
