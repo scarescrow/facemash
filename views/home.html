@@ -1,0 +1,26 @@
+<nav>
+<a class="active" href="./"> Game</a>
+<a href="./standings"> Standings</a> 
+<a href="./upload"> Submit a Pic</a>
+
+</nav>
+{{#if photo}}
+
+<img src="photos/{{photo.name}}" width="530" height ="420" alt="Good or bad pictures" />
+
+<div class="button-holder">
+	<form action="./cute" method="post">
+		<input type="hidden" name="photo" value="{{photo.name}}" />
+		<input type="submit" value="Like it!" />
+		
+	</form>
+	<form action="./notcute" method="post">
+		<input type="hidden" name="photo" value=""{{photo.name}}" />
+		<input type="submit" value="Hate it!" />
+	</form>
+	</div>
+	
+	{{else}}
+	
+	<h3> No more photos to vote on! Check out the <a href="./standings"> Standings </a>.</h3>
+	{{/if}}

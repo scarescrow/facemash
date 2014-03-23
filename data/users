@@ -1,0 +1,4 @@
+{"$$indexCreated":{"fieldName":"ip","unique":true,"sparse":false}}
+{"ip":"127.0.0.1","votes":[],"_id":"itGKikrutonCCI9j"}
+{"ip":"127.0.0.1","votes":["kl92TGv6lSxmSjRp"],"_id":"itGKikrutonCCI9j"}
+{"ip":"127.0.0.1","votes":["kl92TGv6lSxmSjRp","bVPDBbFhVFYwFaFR"],"_id":"itGKikrutonCCI9j"}

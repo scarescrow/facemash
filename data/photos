@@ -1,0 +1,8 @@
+{"$$indexCreated":{"fieldName":"name","unique":true,"sparse":false}}
+{"name":"anjanagupta.jpg","likes":0,"dislikes":0,"_id":"bVPDBbFhVFYwFaFR"}
+{"name":"chandraprakashsingh.jpg","likes":0,"dislikes":0,"_id":"JSsjJHvcTb3iGP2Q"}
+{"name":"hctaneja.jpg","likes":0,"dislikes":0,"_id":"x1ba2XPqsG9mtCTt"}
+{"name":"nsraghava.jpg","likes":0,"dislikes":0,"_id":"Wwiu13PykEb8l0vr"}
+{"name":"sangitakansal.jpg","likes":0,"dislikes":0,"_id":"kl92TGv6lSxmSjRp"}
+{"name":"sangitakansal.jpg","likes":1,"dislikes":0,"_id":"kl92TGv6lSxmSjRp"}
+{"name":"anjanagupta.jpg","likes":1,"dislikes":0,"_id":"bVPDBbFhVFYwFaFR"}
